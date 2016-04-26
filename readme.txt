@@ -1,14 +1,7 @@
 
-±¾ÊµÑé½«ÊµÏÖÈçÏÂ¹¦ÄÜ£º±¾ÊµÑéÎªSTemWinµÄÒÆÖ²£¬²¢Î´Ê¹ÓÃ²Ù×÷ÏµÍ³£¬Ê¹ÓÃ¶¨Ê±Æ÷3À´ÎªSTemwinÌá¹©Ê±ÖÓ£¬Ê¹ÓÃ¶¨Ê±Æ÷6À´¶¨Ê±µ÷ÓÃ´¥ÃþÆÁ´¦Àíº¯Êý£¬±¾ÊµÑéÍ¨¹ýÒÆÖ²¹Ù·½µÄDemoÀ´ÑÝÊ¾STemWinÊÇ·ñÒÆÖ²³É¹¦¡£
-±¾ÊµÑé¼æÈÝ2.8£¬3.5,4.3´çÆÁÄ»¡£
+æœ¬ç³»ç»Ÿä¸ºSTemWinçš„ç§»æ¤ï¼Œå¹¶æœªä½¿ç”¨æ“ä½œç³»ç»Ÿï¼Œä½¿ç”¨å®šæ—¶å™¨3æ¥ä¸ºSTemwinæä¾›æ—¶é’Ÿï¼Œä½¿ç”¨å®šæ—¶å™¨6æ¥å®šæ—¶è°ƒç”¨è§¦æ‘¸å±å¤„ç†å‡½æ•°
+æœ¬ç³»ç»Ÿå…¼å®¹2.8ï¼Œ3.5,4.3å¯¸å±å¹•ã€‚
 
-×¢Òâ£º±¾ÊµÑéÊ¹ÓÃÁË´¥ÃþÆÁ£¡
+æ³¨æ„ï¼šä½¿ç”¨äº†è§¦æ‘¸å±ï¼
 
 
-            	¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-                µç»°£º020-38271790
-                ´«Õæ£º020-36773971
-	       	¹ºÂò£ºhttp://shop62103354.taobao.com
-                      http://shop62057469.taobao.com
-                ¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-         	¼¼ÊõÂÛÌ³£ºwww.openedv.com
